@@ -62,4 +62,4 @@ int main()
     cout<<z<<endl;
 }
 
-// Talvez devesse fazer para um caso em que noo ha entrada imaginaria ou apenas entrada imaginaria
+// Talvez devesse fazer para um caso em que nao ha entrada imaginaria ou ha apenas entrada imaginaria
